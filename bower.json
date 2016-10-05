@@ -1,0 +1,40 @@
+{
+  "name": "globetestbower",
+  "private": true,
+  "version": "2.0.1",
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "jquery": "2.2.0",
+    "jquery-validation": "1.14.0",
+    "jquery-validation-unobtrusive": "3.2.6"
+  },
+  "ignore": [
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "wwwroot/lib",
+    "test",
+    "tests"
+  ],
+  "homepage": "test",
+  "authors": [
+    "HP"
+  ],
+  "description": "Test",
+  "main": "wwwroot/js/MyScript.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "false",
+  "repository": "git://github.com/HenrikJepsen/Temp"
+}
