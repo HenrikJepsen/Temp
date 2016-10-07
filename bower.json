@@ -1,0 +1,39 @@
+{
+  "name": "globetestbowerdepend2",
+  "private": true,
+  "version": "3.0.0",
+  "dependencies": {
+    "bootstrap" : "3.3.6",
+    "jquery-validation-unobtrusive": "3.2.6"
+  },
+  "ignore": [
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "dist/MyScript.js",
+    "package.json",
+    "README.md",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "wwwroot/lib",
+    "test",
+    "tests"
+  ],
+  "homepage": "test",
+  "authors": [
+    "HP"
+  ],
+  "description": "Test",
+  "main": "wwwroot/js/MyScriptDependOnJQuery.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "false",
+  "repository": "git://github.com/HenrikJepsen/Temp"
+}
